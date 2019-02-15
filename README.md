@@ -1,8 +1,8 @@
-# Stanford-Car-Dataset (work in progress)
-This work is inspired by the fastai course 2019 editiob "Practical deep learning for coders" v3.
-This is an extenxion of lesson 1 "Image clasification" on the Stanford cars dataset:
+# Stanford-Cars-Dataset (work in progress)
+This work is inspired by the fastai course 2019 edition "Practical deep learning for coders" v3.
+This is an extension of lesson 1 "Image classification" on the Stanford cars dataset:
 
-[link] https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+       [link] https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ## Citation: 
  3D Object Representations for Fine-Grained Categorization
@@ -11,4 +11,5 @@ This is an extenxion of lesson 1 "Image clasification" on the Stanford cars data
        
        [pdf]   https://ai.stanford.edu/~jkrause/papers/3drr13.pdf
        
-According to the dataset overview, it "contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year"
+According to the dataset overview, it "contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split. Classes are typically at the level of Make, Model, Year" 
+
