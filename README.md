@@ -1,4 +1,4 @@
-# Cars recognition  
+# Cars recognition  (In progress)
 ## Stanford-Cars-Dataset 
 This work is inspired by the fastai course 2019 edition "Practical deep learning for coders" v3.
 This is an extension of lesson 1 "Image classification" on the Stanford cars dataset:
